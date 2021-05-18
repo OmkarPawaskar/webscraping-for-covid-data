@@ -1,0 +1,7 @@
+{
+    "database" : "covid_world",
+    "server" : "localhost",
+    "username" : "postgres",
+    "password" : "password",
+    "port" : "5432"
+}
